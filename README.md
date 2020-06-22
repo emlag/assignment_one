@@ -4,3 +4,5 @@
 
 Description: This assignment is meant to help students set up
 their development environment.
+
+![Assignment Screenshot](/screenshot.png)
